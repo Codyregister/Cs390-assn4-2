@@ -1,0 +1,32 @@
+
+bool A;
+int B;
+A := !B;
+write !A;
+
+/* Multi 
+with * star
+and / slash
+*/
+
+/**** Long Star Multi *****/
+
+B = 46;
+read A;
+read B;
+sum := A + B;
+// Single line with / single slash
+write sum;
+write sum / 2;
+//Single Line Comment
+/*Multi
+Line
+Comment */
+read A;
+read B;
+sum := A + B;
+write sum;
+write sum / 2;
+isTest := true;
+/*
+Unclosed multi comment /    *
